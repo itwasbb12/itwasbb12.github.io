@@ -18,11 +18,12 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "맨 땅에" # Categories1
+  - title: "CS" # Categories1
     url: /categories/categories1/
-  - title: "헤딩" # Categories2
+  - title: "ML&DL" # Categories2
     url: /categories/categories2/
-  - title: "피가" # Categories3
+  - title: "통계" # Categories3
     url: /categories/categories3/
-  - title: "철철" # Categories4
+  - title: "테스트 페이지" # Categories4
     url: /categories/categories4/
+  
