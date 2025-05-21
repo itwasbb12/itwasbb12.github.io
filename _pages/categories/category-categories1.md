@@ -1,5 +1,5 @@
 ---
-title: "Categories_test"
+title: "CS"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
