@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hello👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+대진대 ai 빅데이터 전공 차현승의 개발 블로그 입니다. 
