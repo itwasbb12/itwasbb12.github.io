@@ -26,6 +26,6 @@ categories:
     url: /categories/categories3/
   - title: "테스트 페이지" # Categories4
     url: /categories/categories4/
-    title: "테스트 페이지2" # Categories5
+  - title: "테스트 페이지2" # Categories5
     url: /categories/categories5/
   
